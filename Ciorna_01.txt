@@ -1,0 +1,22 @@
+enachesergiu1989@gmail.com
+
+editor = 'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+
+git config --global core.editor "\"C:/Program Files (x86)/Notepad++/notepad++.exe""
+
+git config --global core.editor "\"C:/Program Files (x86)/Notepad++/notepad++.exe""
+> aa
+> a
+>
+> ezit
+> quit
+>
+> notepad++
+>
+> it config
+> git config --edit --global
+> clone
+> qasfdsfd
+>
+
+

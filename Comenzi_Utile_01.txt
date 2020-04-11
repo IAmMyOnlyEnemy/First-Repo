@@ -1,0 +1,8 @@
+cd "C:\Users\enach\Desktop\Git"				<--	te pune in dosarul de lucru dorit
+git init DemmoApp							<-- creaze dosarul applicatiei in dosarul de munca
+cd DemmoApp/								<-- intri in dosarul de munca (main branch)
+ls -la										<-- listeaza fisierele
+notepad++ README.md							<-- creaza si editeaza fisier cu notepad++
+git status									<-- verifica status
+git add README.md							<-- adauga un fisier projectului
+git commit -m "Initial commit"				<--	comite shit
